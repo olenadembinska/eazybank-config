@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Hello, this is new message"
+  contactDetails:
+    name: "QA Lead"
+    email: "{cipher}6f774fbe0a4a806e3345984b4393e41f42aeac2fef9f6f0099125118db187d12d12907d7fe81382762bd9169c22c1dcf"
+  onCallSupport:
+    - (067)999 1122
