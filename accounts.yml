@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "New message, this is amazing!!!!"
+  message: "I see this from Docker!"
   contactDetails:
     name: "Olena Dembinska"
     email: "{cipher}f96d5f9c1825343311111b7578b77eefe426e4a49842ba6cb9a4703dc4053d18bce878a9bdad57ef2c7c3c956213faaa"
