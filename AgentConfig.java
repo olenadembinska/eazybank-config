@@ -19,6 +19,9 @@ import org.springframework.context.annotation.Primary;
 
 import java.util.Arrays;
 
+/**
+Added JavaDoc 
+  */
 @Configuration
 public class AgentConfig {
 
